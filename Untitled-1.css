@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+    font-family: "Sofia", sans-serif;
+}
+.container{
+    width: 1000px;
+    background-color: brown;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+header{
+    
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid yellowgreen;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float:left;
+    padding: 40px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: darkblue;
+}
+
+.header-contact{
+    float:right;
+    padding: 30px;
+}
+.header-contact a{
+    
+
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+
+.clear-div{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width:100%;
+    margin: 20px auto;
+    border-bottom: none;
+    border-radius: 3px;
+}
+#personal-section{
+    
+    
+}
+.content{
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float:left;
+}
+.common-hr{
+    border: solid white 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px;
+}
+#work-section{
+
+}
+.contant-1{
+
+}
+.left-work{
+    width: 30%;
+    float: left;
+}
+.right-work{
+    width: 70%;
+    float: left;
+}
+.clear-div{
+    clear: both;
+}
+#key-section{
+
+}
+.content-2{
+
+}
+.left-key{
+    width: 30%;
+    float: left;
+}
+.right-key{
+    width: 70%;
+    float: left;
+}
+#education-section{
+
+}
+.content-3{
+
+}
+.left-edu{
+    width: 30%;
+    float: left;
+}
+.middle-edu{
+    width: 35%;
+    float: left;
+}
+.right-edu{
+    width: 35%;
+    float: right;
+
+}
+.bottom-container{
+    background-color: orange;
+    text-align: center;
+    padding: 30px;
+}
+.bottom-container a{
+    color: chartreuse;
+    text-decoration: none;
+    margin: 25px;
+}
+.bottom-container a:hover{
+    color: darkcyan;
+    background-color: black;
+    text-decoration: underline;
+}
+.bottom-container p{
+    color: black;
+    margin-top: 25px;
+}
